@@ -10,19 +10,6 @@ Expertise in implementing state management using Redux.
 
 <br/>
 
-## Rapidfire
-
-<table><tr><td valign="top" width="50%">
-
-- ❓ Ask me about anything related to React/Vue.
-
-- 🌱 I’m currently learning GoLang and Scala
-
-- ⚡ Fun fact: I keep night shift swithed on at all times
-</td></tr>
-</table>
-<br/>
-
 ## Languages and Tools
 
 <div align="center">  
