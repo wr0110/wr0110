@@ -10,7 +10,7 @@ Expertise in implementing state management using Redux.
 
 <br/>
 
-## Languages and Tools
+## 💻 Languages and Tools
 
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
@@ -36,3 +36,8 @@ Expertise in implementing state management using Redux.
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a> 
 </div>  
 <br/>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=wr0110&theme=radical&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=wr0110&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=wr0110&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
