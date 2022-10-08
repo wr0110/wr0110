@@ -7,6 +7,7 @@ Front end developer with dedicated 5 years experience in React & Vue.
 Specialized in building SPAs using the lastest technologies.<br>
 Well-versed in Next.js, Nuxt.js & Inertia.js.<br>
 Expertise in implementing state management using Redux.
+Proficient with shopify/shopify plus and my knowledge of them all is top-notch.<br>
 
 <br/>
 
