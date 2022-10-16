@@ -1,4 +1,4 @@
-## Hey 👋, I'm Stefan Ivanovic!
+## Hey 👋, there!
 
 ### Glad to see you here!
 
