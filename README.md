@@ -55,7 +55,7 @@ I had many times to use web3, ether.js and smart contract.<br/>
 
 ## 📊 GitHub Stats:
 <div align="center">
-![](https://github-readme-stats.vercel.app/api?username=wr0110&theme=default&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=wr0110&theme=default&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=wr0110&theme=default&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api?username=wr0110&theme=default&hide_border=true&include_all_commits=false&count_private=true"/><br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=wr0110&theme=default&hide_border=true"/><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wr0110&theme=default&hide_border=true&include_all_commits=false&count_private=true&layout=compact"/>
 </div>
