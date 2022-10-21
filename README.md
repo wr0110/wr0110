@@ -1,7 +1,5 @@
 ## Hey 👋, there!
 
-### Glad to see you here!
-
 <p align="center">
   <img src="https://github.com/icedev528/icedev528/blob/main/Logo.gif" />
 </p>
