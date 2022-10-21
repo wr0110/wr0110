@@ -10,11 +10,12 @@
   </a>
 </p>
 
+Call me Mr. <strong>"React"</strong> :)<br/>
+<br/>
 I'm a senior React developer with 8+ years' experience.<br/>
 Thanks to my rich experience and overcoming numerous challenges, I'm quite strong in React and React related technologies.
 I know each and every feature of React.<br/>
-My teammates call me Mr. <strong>"React"<strong> :)<br/>
-
+<br/>
 Specialized in building SPAs using the lastest technologies.<br/>
 Well-versed in Next.js, Nuxt.js & Inertia.js.<br/>
 Expertise in implementing state management using Redux.<br/>
