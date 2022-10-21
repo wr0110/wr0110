@@ -9,13 +9,20 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20developer;5+%2B%20years%20of%20working%20experience;Being%20passionate%20and%20creative&center=true&width=380&height=45">
   </a>
 </p>
-Front end developer with dedicated 5 years experience in React & Vue.
 
-Specialized in building SPAs using the lastest technologies.<br>
-Well-versed in Next.js, Nuxt.js & Inertia.js.<br>
-Expertise in implementing state management using Redux.<br>
-Proficient with shopify/shopify plus and my knowledge of them all is top-notch.<br>
+I'm a senior React developer with 8+ years' experience.<br/>
+Thanks to my rich experience and overcoming numerous challenges, I'm quite strong in React and React related technologies.
+I know each and every feature of React.<br/>
+My teammates call me Mr. <strong>"React"<strong> :)<br/>
 
+Specialized in building SPAs using the lastest technologies.<br/>
+Well-versed in Next.js, Nuxt.js & Inertia.js.<br/>
+Expertise in implementing state management using Redux.<br/>
+Proficient with shopify/shopify plus and my knowledge of them all is top-notch.<br/>
+<br/>
+Also, I'm very familiar with Python frameworks like Django and Flask. <br/>
+Moreover, I have a deep understanding of Blockchain, especially Ethereum.<br/>
+I had many times to use web3, ether.js and smart contract.<br/>
 <br/>
 
 ## 💻 Languages and Tools
