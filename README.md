@@ -1,6 +1,12 @@
-## Hey 👋, there!
+<p align="center">
+  <img src="https://github.com/icedev528/icedev528/blob/main/Logo.gif" />
+</p>
 
-### Glad to see you here!
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20developer;5+%2B%20years%20of%20working%20experience;Being%20passionate%20and%20creative&center=true&width=380&height=45">
+  </a>
+</p>
 
 Front end developer with dedicated 5 years experience in React & Vue.
 
