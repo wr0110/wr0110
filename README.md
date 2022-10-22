@@ -1,4 +1,6 @@
-## Hey 👋, there!
+<h2 align="center">
+  Full Stack | Bloackchain | Shopify Developer
+</h2>
 
 <p align="center">
   <img src="https://github.com/icedev528/icedev528/blob/main/Logo.gif" />
