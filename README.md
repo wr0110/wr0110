@@ -28,25 +28,6 @@ Moreover, I have a deep understanding of Blockchain, especially Ethereum.<br/>
 I had many times to use web3, ether.js and smart contract.<br/>
 <br/>
 
-### ❤ My Highlight Skills
-#### ✔ Languages
-JavaScript, TypeScript, Node.js, Python, Java, PHP, C++, GraphQL
-#### ✔ Frontend Development
-React.js, Vue.js, Redux, React-Query, jQuery, Ant-Design, Material-UI, Bootstrap, Responsive Web Development, Progressive Web Application
-#### ✔ Backend Development
-Node.js, Java, Spring Boot, Python, Django, GraphQL(Apollo), Laravel
-#### ✔ Databases
-MongoDB, MySQL, PostgreSQL, Firebase
-#### ✔ AWS Cognito, S3 Bucket, Lamda, SSM, ECS, EC2
-#### ✔ Jira Pipelines, Bitbucket, GitHub
-#### ✔ Google Maps API
-
-### 💻Tech Stack
-<p align="center">
-  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100">
-  <br><br>
-</p>
-
 <hr>
 
 
