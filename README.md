@@ -29,13 +29,6 @@ I had many times to use web3, ether.js and smart contract.<br/>
 <br/>
 
 <hr>
-
-
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=wr0110&column=8)](https://github-profile-trophy.vercel.app/?username=wr0110&column=8)
-
- <br>
-
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
