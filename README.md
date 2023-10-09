@@ -32,7 +32,7 @@ I had many times to use web3, ether.js and smart contract.<br/>
 
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=wr0110&column=8)](https://github-profile-trophy.vercel.app/?username=rockymartin0124&column=8)
+[![trophy](https://github-profile-trophy.vercel.app/?username=wr0110&column=8)](https://github-profile-trophy.vercel.app/?username=wr0110&column=8)
 
  <br>
 
