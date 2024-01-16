@@ -1,5 +1,5 @@
 <h2 align="center">
-  Senior Full-Stack Engineer
+  Senior Software Engineer
 </h2>
 
 <p align="center">
