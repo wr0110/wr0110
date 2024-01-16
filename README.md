@@ -29,6 +29,7 @@ software development.
 <br/>
 With my technical expertise and strong experience, I am willing to deliver the clean outcomes and satisfaction. </br>
 <hr>
+
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
