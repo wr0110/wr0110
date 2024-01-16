@@ -1,5 +1,5 @@
 <h2 align="center">
-  Full Stack | Shopify Developer
+  Senior Full-Stack | Shopify Developer
 </h2>
 
 <p align="center">
@@ -15,8 +15,7 @@
 I possess extensive experience of about10 years in the field of website development, specializing in MERN Stack and Mobile applications.<br/>
 My skill set includes proficiency in JavaScript, PHP and Python where I excel in creating efficient user interfaces, robust database structures, and scalable frontend, backend applications. <br/>
 I am well-versed in multi-threaded applications, cloud computing and web development.<br/>
-Furthermore, I have gained specialized knowledge in various industries like E-commerce, Healthcare and CRM and
-Fintech. I am capable of developing SEO-friendly websites, web 2.0 applications, and possess expertise in ERP
+Furthermore, I have gained specialized knowledge in various industries like E-commerce, Healthcare and CRM and Fintech. I am capable of developing SEO-friendly websites, web 2.0 applications, and possess expertise in ERP
 software development.
 <br/>
 <br/>
