@@ -25,8 +25,8 @@ software development.
 - Ability to build robust backend apps using Laravel, Node.js and Django.
 - Competent in utilizing Azure and AWS cloud platforms
 <br/>
-<br/>
 With my technical expertise and strong experience, I am willing to deliver the clean outcomes and satisfaction. </br>
+<br/>
 <hr>
 
 ## My Skill Set  
