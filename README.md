@@ -1,5 +1,5 @@
 <h2 align="center">
-  Senior Full-Stack | Shopify Developer
+  Senior Full-Stack Engineer
 </h2>
 
 <p align="center">
