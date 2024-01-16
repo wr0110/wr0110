@@ -1,5 +1,5 @@
 <h2 align="center">
-  Full Stack | Bloackchain | Shopify Developer
+  Full Stack | Shopify Developer
 </h2>
 
 <p align="center">
@@ -8,26 +8,26 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20developer;Blockchain%20developer;8+%2B%20years%20of%20working%20experience;Being%20passionate%20and%20creative;Never%20Give%20Up;Easy%20Communication&center=true&width=380&height=45">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20engineer;9+%2B%20years%20of%20working%20experience;Being%20passionate%20and%20creative;Never%20Give%20Up;Easy%20Communication&center=true&width=380&height=45">
   </a>
 </p>
 
-Call me Mr. <strong>"React"</strong> :)<br/>
+I possess extensive experience of about10 years in the field of website development, specializing in MERN Stack and Mobile applications.<br/>
+My skill set includes proficiency in JavaScript, PHP and Python where I excel in creating efficient user interfaces, robust database structures, and scalable frontend, backend applications. <br/>
+I am well-versed in multi-threaded applications, cloud computing and web development.<br/>
+Furthermore, I have gained specialized knowledge in various industries like E-commerce, Healthcare and CRM and
+Fintech. I am capable of developing SEO-friendly websites, web 2.0 applications, and possess expertise in ERP
+software development.
 <br/>
-I'm a senior React developer with 8+ years' experience.<br/>
-Thanks to my rich experience and overcoming numerous challenges, I'm quite strong in React and React related technologies.
-I know each and every feature of React.<br/>
 <br/>
-Specialized in building SPAs using the lastest technologies.<br/>
-Well-versed in Next.js, Nuxt.js & Inertia.js.<br/>
-Expertise in implementing state management using Redux.<br/>
-Proficient with shopify/shopify plus and my knowledge of them all is top-notch.<br/>
+- Extensive experience in front-end development using React.js, Angular, Vue.js, and TypeScript
+- Expertise in working with databases such as PostgreSQL, SQL Server, MySQL, and MongoDB
+- Ability to build cross-platform mobile applications using React Native.
+- Ability to build robust backend apps using Laravel, Node.js and Django.
+- Competent in utilizing Azure and AWS cloud platforms
 <br/>
-Also, I'm very familiar with Python frameworks like Django and Flask. <br/>
-Moreover, I have a deep understanding of Blockchain, especially Ethereum.<br/>
-I had many times to use web3, ether.js and smart contract.<br/>
 <br/>
-
+With my technical expertise and strong experience, I am willing to deliver the clean outcomes and satisfaction. </br>
 <hr>
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
