@@ -12,14 +12,14 @@
   </a>
 </p>
 
-I possess extensive experience of about 10 years in the field of website development, specializing in MERN Stack and Mobile applications.<br/>
+I possess extensive experience of about 8 years in the field of website development, specializing in MERN Stack and Mobile applications.<br/>
 My skill set includes proficiency in JavaScript, PHP and Python where I excel in creating efficient user interfaces, robust database structures, and scalable frontend, backend applications. <br/>
 I am well-versed in multi-threaded applications, cloud computing and web development.<br/>
 Furthermore, I have gained specialized knowledge in various industries like E-commerce, Healthcare and CRM and Fintech. I am capable of developing SEO-friendly websites, web 2.0 applications, and possess expertise in ERP
 software development.
 <br/>
 <br/>
-- Extensive experience in front-end development using React.js, Angular, Vue.js, and TypeScript
+- Extensive experience in front-end development using React.js, Next.js, Astro, Angular, Vue.js, and TypeScript
 - Expertise in working with databases such as PostgreSQL, SQL Server, MySQL, and MongoDB
 - Ability to build cross-platform mobile applications using React Native.
 - Ability to build robust backend apps using Laravel, Node.js and Django.
@@ -50,6 +50,7 @@ With my technical expertise and strong experience, I am willing to deliver the c
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />    
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/astro.svg" alt="Astro" height="50">
 </div>
 
 </td><td valign="top" width="33%">
