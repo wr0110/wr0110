@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20engineer;8+%2B%20years%20of%20working%20experience;Being%20passionate%20and%20creative;Never%20Give%20Up;Easy%20Communication&center=true&width=380&height=45">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20engineer;10+%2B%20years%20of%20working%20experience;Being%20passionate%20and%20creative;Never%20Give%20Up;Easy%20Communication&center=true&width=380&height=45">
   </a>
 </p>
 
